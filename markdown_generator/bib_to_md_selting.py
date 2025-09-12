@@ -64,7 +64,7 @@ def build_front_matter(entry: dict, idx: int) -> str:
 
     # Permalink uses the date + slugified title
     slug = slugify(title)
-    permalink = f"/publication/{date}-{slug}"
+    permalink = f"/publications/{date}-{slug}"
 
     # Example excerpt – you may replace with a real abstract if present
     excerpt = entry.get("abstract", f"").replace("\n  ", " ")
