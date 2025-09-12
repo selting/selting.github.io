@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- Hi, I'm Steffen, a PhD student with a passion for Prescriptive and Predictive Analytics. This size showcases my experience, projects, and publications.
+ Hi, I'm Steffen, a PhD student with a passion for Prescriptive and Predictive Analytics. This site is still **work in progress** but is meant to showcase my experience, projects, and publications.
 
 
 # About Me
@@ -15,10 +15,10 @@ Since April 2020 I am studying in the PhD program *Business Analytics, Logistics
 My dissertation (currently under review) is on the topic of *Combinatorial Auction-based Collaborative Transportation for Last Mile Delivery* is under the supervision of Univ.-Prof. Dr. Jan Fabian Ehmke and Univ.-Prof. Dr. Margaretha Gansterer.
 
 # What You'll Find Here
-- **Professional Experience**
-- **Technical Skills**
+<!-- - **Professional Experience** -->
+<!-- - **Technical Skills** -->
 - **Publications & Talks**
-- **Projects & Code**
+<!-- - **Projects & Code** -->
 
 Feel free to explore and get in touch via the contact information at the bottom of the page. I’m always open to new collaborations or just a good conversation about Operations Research, AI, and everything in between.
 
