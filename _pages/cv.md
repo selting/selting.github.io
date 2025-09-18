@@ -20,12 +20,15 @@ Education
       <li>{{ qualification }}</li>
     {% endfor %}
   </ul>
+*Work in progress*
 
 Work experience
 ======
+*Work in progress*
   
 Skills
 ======
+*Work in progress*
 
 Publications
 ======
@@ -44,6 +47,4 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
+ *Work in progress* 
